@@ -11,6 +11,8 @@
   + U of Georgia,
 * [Caltech ch125b](https://sites.google.com/view/caltech-ch125b/home)
   + Caltech, ch125b, Garnet K. Chan
+* [jlaaser/quantum-exercises](https://github.com/jlaaser/quantum-exercises)
+  + U of Pittsburgh, QC, J. Laaser
 * [南京大学 量子化学](https://itcc.nju.edu.cn/shuhua/lessones_en.html), [MOOC](http://www.icourse163.org/course/NJU-1462082163)
   + Nanjing Univ, Shuhua Li
 * [北京大学 量子化学](https://www.chem.pku.edu.cn/jianghgroup/teaching/QChem.html)
