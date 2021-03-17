@@ -13,6 +13,8 @@
   + Caltech, ch125b, Garnet K. Chan
   + notes include TD
   + codes w/ PySCF
+* [CompChem](https://gagliardigroup.uchicago.edu/teaching/) [Video](https://www.youtube.com/playlist?list=PLkNVwyLvX_TFBLHCvApmvafqqQUHb6JwF)
+  + UMN, L. Gagliardi, C. Cramer
 * [jlaaser/quantum-exercises](https://github.com/jlaaser/quantum-exercises)
   + U of Pittsburgh, QC, J. Laaser
 * [南京大学 量子化学](https://itcc.nju.edu.cn/shuhua/lessones_en.html), [MOOC](http://www.icourse163.org/course/NJU-1462082163)
