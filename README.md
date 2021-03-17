@@ -17,6 +17,10 @@
   + UMN, C. Cramer
   + notes, assignments, exams
   + [Video](https://www.youtube.com/playlist?list=PLkNVwyLvX_TFBLHCvApmvafqqQUHb6JwF)
+* [Sherrill's Notes](http://vergil.chemistry.gatech.edu/notes/index.html)
+  + GeorgiaTech, D. Sherrill
+  + include videos
+  + [programming](http://vergil.chemistry.gatech.edu/resources/programming/index.html)
 * [jlaaser/quantum-exercises](https://github.com/jlaaser/quantum-exercises)
   + U of Pittsburgh, QC, J. Laaser
 * [南京大学 量子化学](https://itcc.nju.edu.cn/shuhua/lessones_en.html) 
