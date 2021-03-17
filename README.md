@@ -13,8 +13,9 @@
   + Caltech, ch125b, Garnet K. Chan
   + notes include TD
   + codes w/ PySCF
-* [CompChem](https://gagliardigroup.uchicago.edu/teaching/)
-  + UMN, L. Gagliardi, C. Cramer
+* [CHEM 8021](http://pollux.chem.umn.edu/8021/)
+  + UMN, C. Cramer
+  + notes, assignments, exams
   + [Video](https://www.youtube.com/playlist?list=PLkNVwyLvX_TFBLHCvApmvafqqQUHb6JwF)
 * [jlaaser/quantum-exercises](https://github.com/jlaaser/quantum-exercises)
   + U of Pittsburgh, QC, J. Laaser
