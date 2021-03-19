@@ -36,7 +36,7 @@
 * [北京大学 化学中的数学](http://jianliugroup.pku.edu.cn/teaching.html)
   + Peking Univ, Jian Liu
 * [lin-lin/2018Fall_275](https://github.com/lin-lin/2018Fall_275)
- + UCB, Math275, Mathematical Introduction to Electronic Structure Theory, Lin Lin
+  + UCB, Math275, Mathematical Introduction to Electronic Structure Theory, Lin Lin
 
 ## Physical Chem level
 * [fevangelista/CHEM331-PhysicalChemistryI](https://github.com/fevangelista/CHEM331-PhysicalChemistryI)
