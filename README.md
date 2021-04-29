@@ -5,13 +5,11 @@
   + Emory Univ, CHEM532, F. Evangelista
 * [fevangelista/CHEM371-LW-QuantumChemistryLab](https://github.com/fevangelista/CHEM371-LW-QuantumChemistryLab)
   + Emory Univ, CHEM371, QC Lab, F. Evangelista
-* [grimme-lab/qc2-teaching](https://github.com/grimme-lab/qc2-teaching)
-  + Bonn Univ, QC II
 * [CCQC/chem-8950](https://github.com/CCQC/chem-8950)
   + U of Georgia,
 * [Caltech ch125b](https://sites.google.com/view/caltech-ch125b/home)
   + Caltech, ch125b, Garnet K. Chan
-  + notes include TD
+  + notes, include TD
   + codes w/ PySCF
 * [CHEM 8021](http://pollux.chem.umn.edu/8021/)
   + UMN, C. Cramer
@@ -33,11 +31,13 @@
 ## Quantum Chem, Coding
 * [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
   + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
+* [grimme-lab/qc2-teaching](https://github.com/grimme-lab/qc2-teaching)
+  + Bonn Univ, QC II
+* [hphratchian/CHEM225-Project](https://github.com/hphratchian/CHEM225-Project)
+  + UC Merced, CHEM225, H. Hratchian
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
-* [hphratchian/CHEM225-Project](https://github.com/hphratchian/CHEM225-Project)
-  + UC Merced, CHEM225, H. Hratchian
 * [北京大学 化学中的数学](http://jianliugroup.pku.edu.cn/teaching.html)
   + Peking Univ, Jian Liu
 * [lin-lin/2018Fall_275](https://github.com/lin-lin/2018Fall_275)
