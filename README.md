@@ -23,11 +23,16 @@
   + [programming](http://vergil.chemistry.gatech.edu/resources/programming/index.html)
 * [jlaaser/quantum-exercises](https://github.com/jlaaser/quantum-exercises)
   + U of Pittsburgh, QC, J. Laaser
+* [MIT 10.675J](https://ocw.mit.edu/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/index.htm)
+  + MIT, Bernhardt Trout
 * [南京大学 量子化学](https://itcc.nju.edu.cn/shuhua/lessones_en.html) 
   + Nanjing Univ, Shuhua Li
   + [MOOC](http://www.icourse163.org/course/NJU-1462082163)
 * [北京大学 量子化学](https://www.chem.pku.edu.cn/jianghgroup/teaching/QChem.html)
   + Peking Univ, Hong Jiang
+## Quantum Chem, Coding
+* [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
+  + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
