@@ -28,6 +28,8 @@
   + [MOOC](http://www.icourse163.org/course/NJU-1462082163)
 * [北京大学 量子化学](https://www.chem.pku.edu.cn/jianghgroup/teaching/QChem.html)
   + Peking Univ, Hong Jiang
+* [zhendongli2008/Lecture-Notes-On-Quantum-Chemistry](https://github.com/zhendongli2008/Lecture-Notes-On-Quantum-Chemistry)
+  + BNU, Zhendong Li
 ## Quantum Chem, Coding
 * [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
   + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
