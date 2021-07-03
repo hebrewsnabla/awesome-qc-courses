@@ -44,6 +44,8 @@
   + Peking Univ, Jian Liu
 * [lin-lin/2018Fall_275](https://github.com/lin-lin/2018Fall_275)
   + UCB, Math275, Mathematical Introduction to Electronic Structure Theory, Lin Lin
+* [Helgaker's Pre](https://trygvehelgaker.no/Presentations.html)
+  + U of Oslo, T. Helgaker
 
 ## Physical Chem level
 * [fevangelista/CHEM331-PhysicalChemistryI](https://github.com/fevangelista/CHEM331-PhysicalChemistryI)
