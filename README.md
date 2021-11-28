@@ -40,6 +40,8 @@
   + Bonn Univ, QC II
 * [hphratchian/CHEM225-Project](https://github.com/hphratchian/CHEM225-Project)
   + UC Merced, CHEM225, H. Hratchian
+* [Chem531Fall2021/Instructor](https://github.com/Chem531Fall2021/Instructor)
+  + Emory, CHEM531, F. Liu
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
