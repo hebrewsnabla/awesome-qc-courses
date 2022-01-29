@@ -47,6 +47,8 @@
   + U of Oslo, FYS4480, M. Hjorth-Jensen
 * [北京大学 化学中的数学](http://jianliugroup.pku.edu.cn/teaching.html)
   + Peking Univ, Jian Liu
+* [ghutchis/chem1000](https://github.com/ghutchis/chem1000)
+  + U of Pittsburgh, Mathematics for Chemistry, G. Hutchison
 * [lin-lin/2018Fall_275](https://github.com/lin-lin/2018Fall_275)
   + UCB, Math275, Mathematical Introduction to Electronic Structure Theory, Lin Lin
 * [Helgaker's Pre](https://trygvehelgaker.no/Presentations.html)
