@@ -45,6 +45,7 @@
 * [cndaqiang/DFT-EXERCISES](https://github.com/cndaqiang/DFT-EXERCISES)
   + with VASP
 * [jkitchin/dft-book](https://github.com/jkitchin/dft-book)
+* [yongleli/ComputPhys2020](https://github.com/yongleli/ComputPhys2020)
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
