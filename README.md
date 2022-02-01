@@ -42,6 +42,8 @@
   + UC Merced, CHEM225, H. Hratchian
 * [Chem531Fall2021/Instructor](https://github.com/Chem531Fall2021/Instructor)
   + Emory, CHEM531, F. Liu
+* [cndaqiang/DFT-EXERCISES](https://github.com/cndaqiang/DFT-EXERCISES)
+  + with VASP
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
