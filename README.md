@@ -33,7 +33,7 @@
 * [PaulWAyers/IntroQChem](https://github.com/PaulWAyers/IntroQChem)
   + McMaster Univ, CHEM3PA3, Paul W. Ayers
   + [Website](https://qchem1.qcdevs.org/)
-## Quantum Chem, Coding
+## Quantum Chem, Coding and lab
 * [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
   + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
 * [grimme-lab/qc2-teaching](https://github.com/grimme-lab/qc2-teaching)
@@ -44,6 +44,7 @@
   + Emory, CHEM531, F. Liu
 * [cndaqiang/DFT-EXERCISES](https://github.com/cndaqiang/DFT-EXERCISES)
   + with VASP
+* [jkitchin/dft-book](https://github.com/jkitchin/dft-book)
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
   + U of Oslo, FYS4480, M. Hjorth-Jensen
