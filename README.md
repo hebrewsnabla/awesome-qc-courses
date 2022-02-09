@@ -30,9 +30,9 @@
   + Peking Univ, Hong Jiang
 * [zhendongli2008/Lecture-Notes-On-Quantum-Chemistry](https://github.com/zhendongli2008/Lecture-Notes-On-Quantum-Chemistry)
   + BNU, Zhendong Li
-* [PaulWAyers/IntroQChem](https://github.com/PaulWAyers/IntroQChem)
+* [PaulWAyers/IntroQChem](https://github.com/PaulWAyers/IntroQChem), [QC-Edu/IntroQM2022](https://github.com/QC-Edu/IntroQM2022)
   + McMaster Univ, CHEM3PA3, Paul W. Ayers
-  + [Website](https://qchem1.qcdevs.org/)
+  + [Website](https://qchem1.qcdevs.org/), [Website2022](https://qchem.qc-edu.org/main_content.html)
 ## Quantum Chem, Coding and lab
 * [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
   + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
