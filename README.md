@@ -33,6 +33,11 @@
 * [PaulWAyers/IntroQChem](https://github.com/PaulWAyers/IntroQChem), [QC-Edu/IntroQM2022](https://github.com/QC-Edu/IntroQM2022)
   + McMaster Univ, CHEM3PA3, Paul W. Ayers
   + [Website](https://qchem1.qcdevs.org/), [Website2022](https://qchem.qc-edu.org/main_content.html)
+* 量子化学软件基础
+  + Shandong Univ, Yang Guo
+  + [exercises](https://github.com/liu-chunzhang/an_introductory_tutorial_of_quantum_chemistry)
+
+
 ## Quantum Chem, Coding and lab
 * [CrawfordGroup/ProgrammingProjects](https://github.com/CrawfordGroup/ProgrammingProjects)
   + See also [ajz34/PyCrawfordProgProj](https://github.com/ajz34/PyCrawfordProgProj)
@@ -45,6 +50,8 @@
 * [cndaqiang/DFT-EXERCISES](https://github.com/cndaqiang/DFT-EXERCISES)
   + with VASP
 * [jkitchin/dft-book](https://github.com/jkitchin/dft-book)
+* [fevangelista/Notebooks](https://github.com/fevangelista/Notebooks) Psi4 notebooks
+  + F. Evangelista
 
 ## Quantum Chem, Others
 * [ManyBodyPhysics/FYS4480](https://github.com/ManyBodyPhysics/FYS4480), [web](https://manybodyphysics.github.io/FYS4480/doc/web/course.html)
@@ -57,6 +64,8 @@
   + UCB, Math275, Mathematical Introduction to Electronic Structure Theory, Lin Lin
 * [Helgaker's Pre](https://trygvehelgaker.no/Presentations.html)
   + U of Oslo, T. Helgaker
+* [book materials for *Quantum Chemistry in the Age of Machine Learning*](https://github.com/dralgroup/MLinQCbook22)
+  + Pavlo O. Dral group
  
 ## Solid State Electronic Structure
 * [First-principles Computation](http://lqcc.ustc.edu.cn/renxg/plus/list.php?tid=7)
